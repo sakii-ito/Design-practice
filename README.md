@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🍡 Design practice
+# 🍡 Design practice 🍡
 
-### HTML / CSS 기초 코딩 + UI/UX 디자인 감각, 조금씩 쌓아가는 중 ✨
+### ✨ HTML / CSS 기초 코딩 + UI/UX 디자인 감각, 조금씩 쌓아가는 중 ✨
 
 ![status](https://img.shields.io/badge/status-in%20progress-ffb6c1?style=flat-square)
 ![css](https://img.shields.io/badge/css--basics-learning-9ae6b4?style=flat-square)
@@ -38,6 +38,6 @@
 
 <div align="center">
 
-— 조금씩이라도 꾸준히 🐱 —
+— 🐱 조금씩이라도 꾸준히 🐱 —
 
 </div>
