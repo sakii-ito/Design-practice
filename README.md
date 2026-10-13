@@ -10,6 +10,7 @@
 
 </div>
 
+
 ---
 
 ## 📂 구성
@@ -20,6 +21,7 @@
 | 🧸 [`ui-ux-study/`](./ui-ux-study) | 타비도리 프로젝트용 UI/UX 디자인 학습 (디자인 시스템, 목업) |
 
 각 폴더 안의 README.md(또는 note.md)에 더 자세한 로드맵이 있어요 🗒️
+
 
 ## 🐾 진행 방법
 
@@ -32,11 +34,13 @@
    git push
    ```
 
+
 ## 🧵 기술 스택
 
 `HTML` `CSS` `JavaScript` (바닐라) + `Figma` 🎀
 
 <div align="center">
+
 
 — 🐱 조금씩이라도 꾸준히 🐱 —
 
