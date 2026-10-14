@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧸 ui-ux-study
+# 🧸 ui-ux-study 🧸
 
 ### 타비도리 프로젝트용 UI/UX 디자인 학습 🚃✨
 
