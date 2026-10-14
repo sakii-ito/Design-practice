@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎨 css-basics
+# 🎨 css-basics 🎨
 
 ### CSS를 개념별로 하나씩 파고드는 연습 폴더 ✨
 
